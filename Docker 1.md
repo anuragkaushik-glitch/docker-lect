@@ -10,10 +10,10 @@ This happens because different systems may have different environments.
 
 Common causes:
 
-* Different operating systems
-* Different runtime versions
+* Different operating systems -> Windows, iOS, Linux etc.
+* Different runtime versions -> Nodejs, Java etc.
 * Missing dependencies
-* Missing or incorrect environment variables
+* Missing or incorrect environment variables -> Env file different
 
 Because of this, an application that runs perfectly on one developer's machine may fail on another system or production server.
 
